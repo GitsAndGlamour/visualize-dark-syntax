@@ -7,10 +7,10 @@ I use this theme with the Accents UI with an accent color of #041E59. I find it 
 See the GitHub repo for the UI here: https://atom.io/themes/accents-ui
 
 CSS Script Screenshot: 
-![CSS-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-1.png)
+![CSS-Screenshot](http://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-1.png)
 
 HTML Script Screenshot:
-![HTML-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-2.png)
+![HTML-Screenshot](http://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-2.png)
 
 JavaScript Screenshot: 
-![JS-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-3.png)
+![JS-Screenshot](http://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-3.png)
