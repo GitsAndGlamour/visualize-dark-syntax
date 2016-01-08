@@ -1,7 +1,7 @@
 {
   "name": "visualize-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "description": "A dark syntax theme for those who enjoy bold distinctive colors",
   "repository": {
