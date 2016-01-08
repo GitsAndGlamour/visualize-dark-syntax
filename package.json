@@ -12,7 +12,7 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "readme": "# Atom Dark Syntax Theme\n\nA dark syntax for those who enjoy bold colors.\n\n![A screenshot!](https://f.cloud.github.com/assets/69169/2302417/fec4d2e4-a17b-11e3-927e-b4e375d3e26c.png)",
+  "readme": "# visualize-dark-syntax theme\n\nA dark syntax for those who enjoy bold colors.\n\nI use this theme with the Accents UI with an accent color of #041E59. I find it one of the more distraction-free UI's in Atom.\n\nSee the GitHub repo for the UI here: https://atom.io/themes/accents-ui\n\nCSS Script Screenshot:\n![CSS-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-1.png\n\nHTML Script Screenshot:\n![HTML-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-2.png)\n\nJavaScript Screenshot:\n![JS-Screenshot](https://github.com/GitsAndGlamour/visualize-dark-syntax/blob/master/img/showcase-3.png)",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/GitsAndGlamour/visualize-dark-syntax/issues"
