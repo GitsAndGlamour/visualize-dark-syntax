@@ -1,2 +1,5 @@
-# visualize-dark-syntax
-An Atom.io dark syntax theme with bold colors. 
+# visualize-dark-syntax theme
+
+A dark syntax for those who enjoy bold colors.
+
+![A screenshot of your theme](#)

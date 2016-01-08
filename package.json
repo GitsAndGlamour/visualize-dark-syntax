@@ -1,0 +1,18 @@
+{
+  "name": "visualize-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme syntax for those who enjoy bold colors.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bold",
+    "visual",
+    "dark"
+  ],
+  "repository": "https://github.com/atom/visualize-dark-syntax",
+  "license": "Omie Walls",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
