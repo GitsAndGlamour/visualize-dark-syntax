@@ -2,17 +2,34 @@
   "name": "visualize-dark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A dark theme syntax for those who enjoy bold colors.",
-  "keywords": [
-    "syntax",
-    "theme",
-    "bold",
-    "visual",
-    "dark"
-  ],
-  "repository": "https://github.com/atom/visualize-dark-syntax",
+  "private": false,
+  "description": "A dark syntax theme for those who enjoy bold distinctive colors",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitsandglamour/visualize-dark-syntax"
+  },
   "license": "Omie Walls",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">0.50.0"
+  },
+  "readme": "# Atom Dark Syntax Theme\n\nA dark syntax for those who enjoy bold colors.\n\n![A screenshot!](https://f.cloud.github.com/assets/69169/2302417/fec4d2e4-a17b-11e3-927e-b4e375d3e26c.png)",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/atom/visualize-dark-syntax/issues"
+  },
+  "homepage": "https://github.com/atom/visualize-dark-syntax#readme",
+  "_id": "visualize-dark-syntax@0.0.0",
+  "_shasum": "74b6ba5690250e6fed72e8621a8de6b48e7f908c",
+  "_resolved": "file:..\\d-11608-14468-d9dsdq\\package.tgz",
+  "_from": "..\\d-11608-14468-d9dsdq\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
   }
 }
